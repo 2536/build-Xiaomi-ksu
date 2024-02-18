@@ -1,6 +1,6 @@
 # build-Xiaomi-ksu
- 编译小米手机的ksu
-修改boot.zip, 将自己的boot.img压缩后上传替换运行即可
+# 编译小米手机的ksu
+# 修改boot.zip, 将自己的boot.img压缩后上传替换运行即可
 
 测试库：
 ```
